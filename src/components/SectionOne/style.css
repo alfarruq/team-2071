@@ -1,0 +1,58 @@
+
+
+.leftt h1 {
+  font-family: Work Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: 0%;
+  width: 600px;
+  
+  }
+  
+  
+  .leftt p {
+    font-family: Work Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+     width: 476px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    
+    
+  }
+  
+  .hero button {
+    text-transform: uppercase;
+    border: none;
+    border-radius: 100px;
+  
+    padding: 16px  24px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    letter-spacing: 1px;
+    background-color: #F3CB3E;
+    
+    
+  
+  }
+  
+  
+
+
+
+
+
+span{
+  color: #F3CB3E;
+}
+
+.hero{
+  padding: 0 150px;
+  display: flex;
+}
+
