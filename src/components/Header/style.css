@@ -1,0 +1,39 @@
+.kka{
+    display: flex;
+}
+
+.RRR{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    height: 80px;
+    gap: 20px;
+    
+}
+ul{
+    padding: 25px;
+    list-style: none;
+    color: black;
+    
+}
+button{
+    border-radius: 55px;
+    background-color: orange;
+    color: white;
+    padding: 7px 20px;
+    
+}
+.surqash{
+  margin-top: 5px;
+  gap: 1px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: goldenrod;
+}
